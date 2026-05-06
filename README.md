@@ -40,9 +40,9 @@ This project analyzes sales data from a coffee chain operating across **3 store 
 ---
 
 ### Q1. Which months and days generate the highest revenue?
-<img width="885" height="597" alt="image" src="https://github.com/user-attachments/assets/496755b0-1c9b-473e-9519-ba45379287be" />
+<img width="684" height="219" alt="image" src="https://github.com/user-attachments/assets/496755b0-1c9b-473e-9519-ba45379287be" />
 
-<img width="1005" height="608" alt="image" src="https://github.com/user-attachments/assets/3f102c59-73f7-4225-b3f2-60dd2816735a" />
+<img width="684" height="219" alt="image" src="https://github.com/user-attachments/assets/3f102c59-73f7-4225-b3f2-60dd2816735a" />
 
 **Monthly Trend:**
 Revenue grew consistently from January through June with one small dip in February.
@@ -157,7 +157,7 @@ Transactions **spike sharply from 7 AM and peak at 10 AM with 26.71K transaction
 
 <img width="857" height="499" alt="image" src="https://github.com/user-attachments/assets/f4dfc1e0-ea5d-479b-9d1b-356eee183981" />
 
-** Monday, Thursday, and Friday are the consistently strongest days.**
+**Monday, Thursday, and Friday are the consistently strongest days.**
 
 | Day | Revenue |
 |-----|---------|
