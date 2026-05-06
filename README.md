@@ -1,4 +1,4 @@
-# ☕ Coffee Sales Analysis — Excel Dashboard
+# Coffee Sales Analysis — Excel Dashboard
 
 ---
 
@@ -191,7 +191,7 @@ While the top products are popular across all stores, **Astoria dominates in qua
 
 | Store | Avg Transaction Value |
 |-------|-----------------------|
-| Lower Manhattan | **$4.81** ⬆️ |
+| Lower Manhattan | **$4.81** |
 | Hell's Kitchen | $4.66 |
 | Astoria | $4.59 |
 | Overall Chain | $4.69 |
@@ -211,31 +211,3 @@ While the top products are popular across all stores, **Astoria dominates in qua
 | 5 | Lower Manhattan spends the most per visit — best store for upselling |
 
 ---
-
-## Tools Used
-
-- **Microsoft Excel** — Pivot Tables, Pivot Charts, Slicers, Conditional Formatting, Dashboard Design
-
----
-
-## Project Structure
-
-```
-coffee-sales-analysis/
-│
-├── dashboard/
-│   └── coffee_dashboard.xlsx
-│
-└── README.md
-```
-
----
-
-## 👤 About
-
-**[Your Name]**
-Aspiring Data Analyst | Excel • SQL • Python
-[LinkedIn Profile] | [GitHub Profile]
-
----
-⭐ *If you found this project useful, feel free to star the repo!*
