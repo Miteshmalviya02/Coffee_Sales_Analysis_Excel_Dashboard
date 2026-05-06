@@ -1,4 +1,4 @@
-# Coffee Sales Analysis — Excel Dashboard
+# ☕ Coffee Sales Analysis — Excel Dashboard
 
 ---
 
@@ -30,8 +30,7 @@ This project analyzes sales data from a coffee chain operating across **3 store 
 
 **Total Orders:** 149K &nbsp;|&nbsp; **Total Revenue:** $699K &nbsp;|&nbsp; **Average Order Value:** $4.69
 
-<img width="1797" height="732" alt="image" src="https://github.com/user-attachments/assets/7f3972d0-c5f7-4a14-bb48-66f188a71fe1" />
-
+<img width="900" alt="Dashboard Overview" src="https://github.com/user-attachments/assets/7f3972d0-c5f7-4a14-bb48-66f188a71fe1" />
 
 ---
 
@@ -40,9 +39,10 @@ This project analyzes sales data from a coffee chain operating across **3 store 
 ---
 
 ### Q1. Which months and days generate the highest revenue?
-<img width="684" height="219" alt="image" src="https://github.com/user-attachments/assets/496755b0-1c9b-473e-9519-ba45379287be" />
 
-<img width="684" height="219" alt="image" src="https://github.com/user-attachments/assets/3f102c59-73f7-4225-b3f2-60dd2816735a" />
+<img width="600" alt="Sales Trend by Month" src="https://github.com/user-attachments/assets/496755b0-1c9b-473e-9519-ba45379287be" />
+
+<img width="600" alt="Sales by Weekdays" src="https://github.com/user-attachments/assets/3f102c59-73f7-4225-b3f2-60dd2816735a" />
 
 **Monthly Trend:**
 Revenue grew consistently from January through June with one small dip in February.
@@ -76,11 +76,9 @@ Revenue nearly **doubled from February to June** — showing strong upward momen
 
 ### Q2. Which store location performs best in total sales and transaction volume?
 
-<img width="858" height="555" alt="image" src="https://github.com/user-attachments/assets/0a953a7a-7aba-4840-9e09-01414a283464" />
+<img width="600" alt="Sales by Store Location" src="https://github.com/user-attachments/assets/0a953a7a-7aba-4840-9e09-01414a283464" />
 
-<img width="667" height="497" alt="image" src="https://github.com/user-attachments/assets/c3cbd896-0b0e-4f8a-85b8-ca4459df3d98" />
-
-
+<img width="500" alt="Store Table" src="https://github.com/user-attachments/assets/c3cbd896-0b0e-4f8a-85b8-ca4459df3d98" />
 
 | Store | Total Sales | Avg Transaction | Transaction Volume |
 |-------|-------------|-----------------|-------------------|
@@ -94,10 +92,9 @@ All three stores are performing **remarkably close to each other** — each cros
 
 ### Q3. Which product categories and types contribute most to revenue?
 
+<img width="700" alt="Sales by Category" src="https://github.com/user-attachments/assets/6c07c8c1-0f36-49d6-8cda-baa65c910a8b" />
 
-<img width="1074" height="479" alt="image" src="https://github.com/user-attachments/assets/6c07c8c1-0f36-49d6-8cda-baa65c910a8b" />
-
-<img width="755" height="490" alt="image" src="https://github.com/user-attachments/assets/a293f1de-22c1-4853-91da-76537fb2f249" />
+<img width="600" alt="Top 10 Products" src="https://github.com/user-attachments/assets/a293f1de-22c1-4853-91da-76537fb2f249" />
 
 | Category | Revenue | Share |
 |----------|---------|-------|
@@ -119,7 +116,7 @@ Within Coffee, **Barista Espresso** is the single highest revenue product at **$
 
 ### Q4. What is the best-selling product detail (specific item) across all stores?
 
-<img width="684" height="219" alt="image" src="https://github.com/user-attachments/assets/45859331-edfa-4da5-b821-2f08f8a73f22" />
+<img width="600" alt="Best Selling Products by Store" src="https://github.com/user-attachments/assets/45859331-edfa-4da5-b821-2f08f8a73f22" />
 
 | Product | Astoria | Hell's Kitchen | Lower Manhattan |
 |---------|---------|----------------|-----------------|
@@ -135,7 +132,7 @@ Within Coffee, **Barista Espresso** is the single highest revenue product at **$
 
 ### Q5. What are the peak hours of the day for transactions?
 
-<img width="1174" height="480" alt="image" src="https://github.com/user-attachments/assets/80146a14-5d77-4377-b02b-c5bf552366eb" />
+<img width="700" alt="Transactions by Hours" src="https://github.com/user-attachments/assets/80146a14-5d77-4377-b02b-c5bf552366eb" />
 
 | Hour | Transaction Volume |
 |------|--------------------|
@@ -155,7 +152,7 @@ Transactions **spike sharply from 7 AM and peak at 10 AM with 26.71K transaction
 
 ### Q6. Are there specific days of the week with consistently higher sales?
 
-<img width="857" height="499" alt="image" src="https://github.com/user-attachments/assets/f4dfc1e0-ea5d-479b-9d1b-356eee183981" />
+<img width="600" alt="Sales by Weekdays" src="https://github.com/user-attachments/assets/f4dfc1e0-ea5d-479b-9d1b-356eee183981" />
 
 **Monday, Thursday, and Friday are the consistently strongest days.**
 
@@ -166,13 +163,13 @@ Transactions **spike sharply from 7 AM and peak at 10 AM with 26.71K transaction
 | Friday | $101K |
 | Saturday | $97K (Lowest) |
 
-These three days together contribute significantly more than weekends. Saturday is the lowest at $97K. This pattern confirms the customer base is largely made up of **working professionals** who are most active at the start and end of their work week.
+These three days contribute significantly more than weekends. Saturday is the lowest at $97K. This pattern confirms the customer base is largely made up of **working professionals** who are most active at the start and end of their work week.
 
 ---
 
 ### Q7. How does product preference vary across store locations?
 
-<img width="699" height="255" alt="image" src="https://github.com/user-attachments/assets/4d435623-5841-4885-be2f-8acdd18f1300" />
+<img width="600" alt="Product Preference by Store" src="https://github.com/user-attachments/assets/4d435623-5841-4885-be2f-8acdd18f1300" />
 
 | Product | Strongest Store |
 |---------|----------------|
@@ -188,15 +185,13 @@ While the top products are popular across all stores, **Astoria dominates in qua
 
 ### Q8. Which store has the highest average transaction value?
 
-<img width="508" height="320" alt="image" src="https://github.com/user-attachments/assets/3cf344e2-ee67-4d6a-a7dc-d79a40c4bde3" />
+<img width="500" alt="Avg Transaction by Store" src="https://github.com/user-attachments/assets/3cf344e2-ee67-4d6a-a7dc-d79a40c4bde3" />
 
-<img width="475" height="153" alt="image" src="https://github.com/user-attachments/assets/1fff2b31-65be-4c5b-b0f8-b8d810223dc3" />
-
-
+<img width="450" alt="Store AVG Table" src="https://github.com/user-attachments/assets/1fff2b31-65be-4c5b-b0f8-b8d810223dc3" />
 
 | Store | Avg Transaction Value |
 |-------|-----------------------|
-| Lower Manhattan | **$4.81** |
+| Lower Manhattan | **$4.81** ⬆️ |
 | Hell's Kitchen | $4.66 |
 | Astoria | $4.59 |
 | Overall Chain | $4.69 |
@@ -216,6 +211,30 @@ While the top products are popular across all stores, **Astoria dominates in qua
 | 5 | Lower Manhattan spends the most per visit — best store for upselling |
 
 ---
+
+## Tools Used
+
+- **Microsoft Excel** — Pivot Tables, Pivot Charts, Slicers, Conditional Formatting, Dashboard Design
+
+---
+
+## Project Structure
+
+```
+coffee-sales-analysis/
+│
+├── dashboard/
+│   └── coffee_dashboard.xlsx
+│
+└── README.md
+```
+
+---
+
+## 👤 About
+
+**[Your Name]**
+Aspiring Data Analyst | Excel • SQL • Python
 [LinkedIn Profile] | [GitHub Profile]
 
 ---
