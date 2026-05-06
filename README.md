@@ -30,7 +30,8 @@ This project analyzes sales data from a coffee chain operating across **3 store 
 
 **Total Orders:** 149K &nbsp;|&nbsp; **Total Revenue:** $699K &nbsp;|&nbsp; **Average Order Value:** $4.69
 
-![alt text](image.png)
+<img width="1797" height="732" alt="image" src="https://github.com/user-attachments/assets/7f3972d0-c5f7-4a14-bb48-66f188a71fe1" />
+
 
 ---
 
